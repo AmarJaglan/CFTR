@@ -1,0 +1,10 @@
+structure_id,source_filename,entity_id,label_asym_id,auth_asym_id,entity_description,organism,polymer_seq_len,is_cftr,structure_type,alignment_identity,canonical_coverage_pct,observed_coverage_pct,ca_coverage_pct,mapped_positions_count,observed_residues_count,ca_atoms_count,unresolved_count,not_covered_count,reference_mismatch_count,warning_count,detected_deletions,detected_substitutions
+1AV5,1AV5.cif,1,A,A,PROTEIN KINASE C INTERACTING PROTEIN,Homo sapiens,126,False,NON_CFTR,0.1984,0.0,0.0,0.0,0,0,0,0,0,0,0,None,None
+1AV5,1AV5.cif,1,B,B,PROTEIN KINASE C INTERACTING PROTEIN,Homo sapiens,126,False,NON_CFTR,0.1984,0.0,0.0,0.0,0,0,0,0,0,0,0,None,None
+5UAK,5UAK(1).cif,1,A,A,Cystic fibrosis transmembrane conductance regulator,Homo sapiens,1489,True,FULL_LENGTH,1.0,100.0,76.96,76.96,1480,1139,1139,341,0,0,1,None,None
+5UAK,5UAK(1).cif,2,B,R,Cystic fibrosis transmembrane conductance regulator,Homo sapiens,19,False,NON_CFTR,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,None,None
+6MSM,6MSM(1).cif,1,A,A,Cystic fibrosis transmembrane conductance regulator,Homo sapiens,1489,True,FULL_LENGTH,0.9993,100.0,79.8,79.8,1480,1181,1181,299,0,1,2,None,E1371Q
+6MSM,6MSM(1).cif,2,B,B,Piece of Molecule-1,Homo sapiens,17,False,NON_CFTR,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,None,None
+7JQ4,7jq4.cif,1,A,A,3C-like proteinase,Severe acute respiratory syndrome coronavirus 2,306,False,NON_CFTR,0.1513,0.0,0.0,0.0,0,0,0,0,0,0,0,None,None
+8EIQ,8EIQ(1).cif,1,A,A,Cystic fibrosis transmembrane conductance regulator,Homo sapiens,1479,True,FULL_LENGTH,0.9993,99.93,78.51,78.51,1479,1162,1162,317,1,1,2,Delta-F508,E1371Q
+8EIQ,8EIQ(1).cif,2,B,B,Cystic fibrosis transmembrane conductance regulator,Homo sapiens,16,False,NON_CFTR,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,None,None

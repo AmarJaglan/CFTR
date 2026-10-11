@@ -1,0 +1,694 @@
+canonical_protein,canonical_position,cftr2_legacy_name,cftr2_determination,cftr2_alleles_reported,clinvar_variation_id,clinvar_vcv_accession,clinvar_classification,clinvar_review_status,concordance_category,domain_name,observation_pattern,is_fully_comparable
+G551D,551,G551D,CF-causing,3831,7120,VCV000007120,Pathogenic,practice guideline,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+N1303K,1303,N1303K,CF-causing,3551,7136,VCV000007136,Pathogenic,practice guideline,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+N1303K,1303,N1303K,CF-causing,3551,4818550,VCV004818550,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+R117H,117,R117H,Varying clinical consequence,2262,7109,VCV000007109,Pathogenic,practice guideline,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+R117H,117,R117H,Varying clinical consequence,2262,209047,VCV000209047,Pathogenic,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+D1152H,1152,D1152H,Varying clinical consequence,1185,35867,VCV000035867,drug response,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+G85E,85,G85E,CF-causing,1108,7143,VCV000007143,Pathogenic,practice guideline,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+R334W,334,R334W,CF-causing,977,7139,VCV000007139,Pathogenic,practice guideline,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+R347P,347,R347P,CF-causing,867,7110,VCV000007110,Pathogenic,practice guideline,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+L206W,206,L206W,CF-causing,715,7190,VCV000007190,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+A455E,455,A455E,CF-causing,704,7111,VCV000007111,Pathogenic,practice guideline,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+R1066C,1066,R1066C,CF-causing,532,7162,VCV000007162,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+R560T,560,R560T,CF-causing,433,7113,VCV000007113,Pathogenic,practice guideline,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+P67L,67,P67L,CF-causing,404,53425,VCV000053425,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,Lasso,ALL_THREE_OBSERVED,True
+R117C,117,R117C,CF-causing,365,48688,VCV000048688,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+R347H,347,R347H,CF-causing,361,7182,VCV000007182,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+M1101K,1101,M1101K,CF-causing,351,39516,VCV000039516,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+E92K,92,E92K,CF-causing,351,7181,VCV000007181,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+S549N,549,S549N,CF-causing,318,7116,VCV000007116,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+S945L,945,S945L,CF-causing,296,53575,VCV000053575,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+S549R,549,S549R,CF-causing,217,38733,VCV000038733,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+S549R,549,S549R,CF-causing,217,40190,VCV000040190,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+S549R,549,S549R,CF-causing,217,487375,VCV000487375,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+L1077P,1077,L1077P,CF-causing,200,53690,VCV000053690,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+V520F,520,V520F,CF-causing,199,7150,VCV000007150,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+R1066H,1066,R1066H,CF-causing,196,7158,VCV000007158,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+L997F,997,L997F,Non CF-causing,196,7229,VCV000007229,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+R352Q,352,R352Q,CF-causing,192,7198,VCV000007198,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+G1244E,1244,G1244E,CF-causing,191,53797,VCV000053797,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+D110H,110,D110H,CF-causing,187,7108,VCV000007108,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+G178R,178,G178R,CF-causing,173,48692,VCV000048692,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+G178R,178,G178R,CF-causing,173,1685614,VCV001685614,Pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+I148T,148,I148T,Non CF-causing,162,38850,VCV000038850,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+S1251N,1251,S1251N,CF-causing,160,7217,VCV000007217,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+A559T,559,A559T,CF-causing,155,7123,VCV000007123,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+S1235R,1235,S1235R,Non CF-causing,133,35872,VCV000035872,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+P205S,205,P205S,CF-causing,132,54026,VCV000054026,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+P5L,5,P5L,Varying clinical consequence,128,35824,VCV000035824,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,Lasso,ALL_THREE_OBSERVED,True
+V232D,232,V232D,CF-causing,120,54041,VCV000054041,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+I336K,336,I336K,CF-causing,116,53162,VCV000053162,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+R75Q,75,R75Q,Non CF-causing,116,35839,VCV000035839,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,Lasso,ALL_THREE_OBSERVED,True
+I1027T,1027,I1027T,Non CF-causing,114,35860,VCV000035860,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+T338I,338,T338I,CF-causing,103,7193,VCV000007193,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+F1052V,1052,F1052V,Varying clinical consequence,99,35865,VCV000035865,drug response,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+D579G,579,D579G,Varying clinical consequence,98,53365,VCV000053365,drug response,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD1,ALL_THREE_OBSERVED,True
+A561E,561,A561E,CF-causing,86,7240,VCV000007240,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+I1234V,1234,I1234V,CF-causing,84,7215,VCV000007215,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+L467P,467,L467P,CF-causing,82,35823,VCV000035823,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+G576A,576,G576A,Non CF-causing,72,7165,VCV000007165,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+Y569D,569,Y569D,CF-causing,69,53352,VCV000053352,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+R1070W,1070,R1070W,Varying clinical consequence,68,53685,VCV000053685,drug response,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+L1065P,1065,L1065P,CF-causing,63,7208,VCV000007208,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+R1070Q,1070,R1070Q,Varying clinical consequence,62,35866,VCV000035866,drug response,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+Q1100P,1100,Q1100P,CF-causing,59,53711,VCV000053711,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+S492F,492,S492F,CF-causing,59,7155,VCV000007155,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+R668C,668,R668C,Non CF-causing,59,35835,VCV000035835,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_UNRESOLVED,False
+V456A,456,V456A,CF-causing,58,35821,VCV000035821,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+G1349D,1349,G1349D,CF-causing,54,35881,VCV000035881,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+L558S,558,L558S,CF-causing,52,35829,VCV000035829,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+L927P,927,L927P,CF-causing,51,53568,VCV000053568,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+H609R,609,H609R,CF-causing,51,53398,VCV000053398,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+L1335P,1335,L1335P,CF-causing,51,53872,VCV000053872,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+S341P,341,S341P,CF-causing,50,53167,VCV000053167,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+W1282R,1282,W1282R,CF-causing,49,53820,VCV000053820,Pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+G1061R,1061,G1061R,CF-causing,49,53672,VCV000053672,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+G1061R,1061,G1061R,CF-causing,49,3336162,VCV003336162,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+Q1291H,1291,Q1291H,Varying clinical consequence,49,7152,VCV000007152,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD2,ALL_THREE_OBSERVED,True
+D1270N,1270,D1270N,Varying clinical consequence,48,7164,VCV000007164,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD2,ALL_THREE_OBSERVED,True
+D614G,614,D614G,Varying clinical consequence,46,53403,VCV000053403,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD1,ALL_THREE_OBSERVED,True
+Y563N,563,Y563N,CF-causing,44,7114,VCV000007114,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+G1069R,1069,G1069R,Varying clinical consequence,44,53684,VCV000053684,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+G1069R,1069,G1069R,Varying clinical consequence,44,4818530,VCV004818530,Likely pathogenic,"criteria provided, single submitter",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+H199Y,199,H199Y,CF-causing,43,54018,VCV000054018,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+A1006E,1006,A1006E,CF-causing,43,53627,VCV000053627,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+L967S,967,L967S,Non CF-causing,43,219537,VCV000219537,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+T1246I,1246,T1246I,Varying clinical consequence,43,53799,VCV000053799,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD2,ALL_THREE_OBSERVED,True
+G551S,551,G551S,CF-causing,41,7142,VCV000007142,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+Y1032C,1032,Y1032C,Varying clinical consequence,40,35861,VCV000035861,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+Q98R,98,Q98R,CF-causing,39,53606,VCV000053606,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+G126D,126,G126D,CF-causing,38,53812,VCV000053812,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+R74W,74,R74W,Varying clinical consequence,38,196277,VCV000196277,drug response,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,Lasso,ALL_THREE_OBSERVED,True
+L227R,227,L227R,CF-causing,36,54040,VCV000054040,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+R31C,31,R31C,Non CF-causing,35,35893,VCV000035893,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,Lasso,ALL_THREE_OBSERVED,True
+V754M,754,V754M,Non CF-causing,34,53465,VCV000053465,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,R-domain,ALL_UNRESOLVED,False
+S1159F,1159,S1159F,CF-causing,33,53757,VCV000053757,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+P574H,574,P574H,CF-causing,33,7119,VCV000007119,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+R334L,334,R334L,CF-causing,32,53160,VCV000053160,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+L165S,165,L165S,CF-causing,30,53976,VCV000053976,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+G970D,970,G970D,CF-causing,30,35854,VCV000035854,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+W57G,57,W57G,CF-causing,29,53347,VCV000053347,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,Lasso,ALL_THREE_OBSERVED,True
+S589N,589,S589N,No interpretation available,29,53382,VCV000053382,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+E217G,217,E217G,Non CF-causing,29,7238,VCV000007238,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+H1054D,1054,H1054D,CF-causing,28,53667,VCV000053667,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+V562I,562,V562I,Non CF-causing,28,35830,VCV000035830,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+S977F,977,S977F,Varying clinical consequence,28,53601,VCV000053601,drug response,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+D110E,110,D110E,Varying clinical consequence,26,53714,VCV000053714,drug response,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+D110E,110,D110E,Varying clinical consequence,26,3019253,VCV003019253,Pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+I506T,506,I506T,CF-causing,25,53276,VCV000053276,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+I502T,502,I502T,CF-causing,25,53272,VCV000053272,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+A613T,613,A613T,CF-causing,24,53401,VCV000053401,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+T1036N,1036,T1036N,CF-causing,24,53652,VCV000053652,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+L467F,467,L467F,No interpretation available,23,53246,VCV000053246,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+I618T,618,I618T,CF-causing,21,53404,VCV000053404,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+I807M,807,I807M,Non CF-causing,21,35842,VCV000035842,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,R-domain,ALL_UNRESOLVED,False
+F1074L,1074,F1074L,Varying clinical consequence,21,53688,VCV000053688,drug response,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+F1074L,1074,F1074L,Varying clinical consequence,21,993219,VCV000993219,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+Y913C,913,Y913C,CF-causing,20,7128,VCV000007128,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+R560K,560,R560K,CF-causing,20,7156,VCV000007156,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+S1159P,1159,S1159P,CF-causing,20,53756,VCV000053756,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+I1269N,1269,I1269N,CF-causing,20,634832,VCV000634832,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+R751L,751,R751L,No interpretation available,20,235245,VCV000235245,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,R-domain,ALL_UNRESOLVED,False
+R1162L,1162,R1162L,Non CF-causing,20,256253,VCV000256253,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+R170H,170,R170H,Non CF-causing,20,53983,VCV000053983,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+R851L,851,R851L,Varying clinical consequence,20,53511,VCV000053511,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+I175V,175,I175V,No interpretation available,19,53986,VCV000053986,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+R297Q,297,R297Q,Non CF-causing,19,54082,VCV000054082,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+Q1291R,1291,Q1291R,Varying clinical consequence,19,53827,VCV000053827,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD2,ALL_THREE_OBSERVED,True
+I148N,148,I148N,CF-causing,18,53949,VCV000053949,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+G970R,970,G970R,CF-causing,18,53590,VCV000053590,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+G628R,628,G628R,CF-causing,18,53408,VCV000053408,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+G628R,628,G628R,CF-causing,18,53409,VCV000053409,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+S737F,737,S737F,No interpretation available,18,53454,VCV000053454,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,R-domain,ALL_UNRESOLVED,False
+G85V,85,G85V,CF-causing,17,53510,VCV000053510,Pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+L571S,571,L571S,CF-causing,17,53356,VCV000053356,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+S1255P,1255,S1255P,CF-causing,17,7192,VCV000007192,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+T351S,351,T351S,No interpretation available,17,53174,VCV000053174,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+R117L,117,R117L,Varying clinical consequence,17,53765,VCV000053765,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+R117L,117,R117L,Varying clinical consequence,17,4818539,VCV004818539,Likely pathogenic,"criteria provided, single submitter",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+W361R,361,W361R,CF-causing,16,53183,VCV000053183,not provided,no classification provided,OTHER_OR_DRUG_RESPONSE,TMD1,ALL_THREE_OBSERVED,True
+W361R,361,W361R,CF-causing,16,53184,VCV000053184,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+W1098R,1098,W1098R,CF-causing,16,53707,VCV000053707,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+P750L,750,P750L,Varying clinical consequence,16,53460,VCV000053460,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,R-domain,ALL_UNRESOLVED,False
+A46D,46,A46D,CF-causing,15,53238,VCV000053238,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,Lasso,ALL_THREE_OBSERVED,True
+F311L,311,F311L,CF-causing,15,7153,VCV000007153,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+F311L,311,F311L,CF-causing,15,1474955,VCV001474955,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+F311L,311,F311L,CF-causing,15,2871602,VCV002871602,Pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+S1118F,1118,S1118F,CF-causing,15,53722,VCV000053722,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+H1375P,1375,H1375P,CF-causing,15,53895,VCV000053895,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+H939R,939,H939R,No interpretation available,15,53573,VCV000053573,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+R74Q,74,R74Q,Non CF-causing,15,53456,VCV000053456,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,Lasso,ALL_THREE_OBSERVED,True
+D836Y,836,D836Y,Non CF-causing,15,53505,VCV000053505,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,R-domain,ALL_UNRESOLVED,False
+R334Q,334,R334Q,Varying clinical consequence,15,53159,VCV000053159,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+Y1014C,1014,Y1014C,Varying clinical consequence,15,53638,VCV000053638,Uncertain significance,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+E1044G,1044,E1044G,CF-causing,14,53655,VCV000053655,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+F508C,508,F508C,Non CF-causing,14,7126,VCV000007126,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,CONSTRUCT_DELETION,False
+G622D,622,G622D,Varying clinical consequence,14,35833,VCV000035833,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD1,ALL_THREE_OBSERVED,True
+G480C,480,G480C,CF-causing,13,7187,VCV000007187,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+L137P,137,L137P,CF-causing,13,582298,VCV000582298,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+W57R,57,W57R,CF-causing,13,53346,VCV000053346,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,Lasso,ALL_THREE_OBSERVED,True
+M1101R,1101,M1101R,CF-causing,13,53712,VCV000053712,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+Q1352H,1352,Q1352H,No interpretation available,13,7237,VCV000007237,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+Q1352H,1352,Q1352H,No interpretation available,13,35882,VCV000035882,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+P1013L,1013,P1013L,Non CF-causing,13,53634,VCV000053634,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+V470M,470,V470M,Non CF-causing,13,7130,VCV000007130,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",CONCORDANT_BENIGN,NBD1,ALL_THREE_OBSERVED,True
+V201M,201,V201M,Varying clinical consequence,13,54022,VCV000054022,Uncertain significance,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+A457P,457,A457P,CF-causing,12,554212,VCV000554212,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+R560S,560,R560S,CF-causing,12,53339,VCV000053339,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+R560S,560,R560S,CF-causing,12,1777899,VCV001777899,Pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+M952I,952,M952I,Non CF-causing,12,53580,VCV000053580,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+M952I,952,M952I,Non CF-causing,12,596906,VCV000596906,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+M952I,952,M952I,Non CF-causing,12,2768661,VCV002768661,Pathogenic,"criteria provided, single submitter",DISCORDANT,TMD2,ALL_THREE_OBSERVED,True
+I506V,506,I506V,Non CF-causing,12,7131,VCV000007131,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+T1053I,1053,T1053I,Non CF-causing,12,53666,VCV000053666,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+D443Y,443,D443Y,Varying clinical consequence,12,53229,VCV000053229,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD1,ALL_THREE_OBSERVED,True
+F1099L,1099,F1099L,Varying clinical consequence,12,286681,VCV000286681,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+M952T,952,M952T,Varying clinical consequence,12,53579,VCV000053579,Uncertain significance,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+I506L,506,I506L,CF-causing,11,53275,VCV000053275,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+N1088D,1088,N1088D,CF-causing,11,53697,VCV000053697,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+S549I,549,S549I,CF-causing,11,7117,VCV000007117,Pathogenic,no assertion criteria provided,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+I1398S,1398,I1398S,CF-causing,11,53914,VCV000053914,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+A96E,96,A96E,CF-causing,11,53585,VCV000053585,not provided,no classification provided,OTHER_OR_DRUG_RESPONSE,TMD1,ALL_THREE_OBSERVED,True
+G1249E,1249,G1249E,CF-causing,11,7216,VCV000007216,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+I1005R,1005,I1005R,CF-causing,11,53626,VCV000053626,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+E56K,56,E56K,CF-causing,11,53325,VCV000053325,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,Lasso,ALL_THREE_OBSERVED,True
+H139R,139,H139R,CF-causing,11,53909,VCV000053909,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+E193K,193,E193K,CF-causing,11,54006,VCV000054006,Pathogenic; drug response,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+E116K,116,E116K,CF-causing,11,53754,VCV000053754,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+T1299I,1299,T1299I,No interpretation available,11,53844,VCV000053844,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+R1438W,1438,R1438W,No interpretation available,11,53940,VCV000053940,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,C-term,PARTIALLY_OBSERVED,False
+R117G,117,R117G,Varying clinical consequence,11,53762,VCV000053762,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+R352W,352,R352W,Varying clinical consequence,11,35816,VCV000035816,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+G194V,194,G194V,Varying clinical consequence,11,54016,VCV000054016,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+Y109N,109,Y109N,CF-causing,10,53695,VCV000053695,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+D513G,513,D513G,CF-causing,10,53280,VCV000053280,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+S13F,13,S13F,CF-causing,10,53845,VCV000053845,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,Lasso,ALL_THREE_OBSERVED,True
+G1249R,1249,G1249R,CF-causing,10,53801,VCV000053801,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+G1249R,1249,G1249R,CF-causing,10,618945,VCV000618945,Pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+F191V,191,F191V,CF-causing,10,495953,VCV000495953,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+I1366N,1366,I1366N,CF-causing,10,551822,VCV000551822,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+D192G,192,D192G,CF-causing,10,54005,VCV000054005,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+M152V,152,M152V,No interpretation available,10,53955,VCV000053955,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+W1098L,1098,W1098L,No interpretation available,10,1706003,VCV001706003,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+K68E,68,K68E,Varying clinical consequence,10,53428,VCV000053428,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,Lasso,ALL_THREE_OBSERVED,True
+K162E,162,K162E,CF-causing,9,53968,VCV000053968,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+S364P,364,S364P,CF-causing,9,48714,VCV000048714,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+V392G,392,V392G,CF-causing,9,53207,VCV000053207,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+C524R,524,C524R,CF-causing,9,659442,VCV000659442,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+G314R,314,G314R,CF-causing,9,54088,VCV000054088,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+G314R,314,G314R,CF-causing,9,4688698,VCV004688698,Pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+Y109C,109,Y109C,CF-causing,9,7197,VCV000007197,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+Q359R,359,Q359R,CF-causing,9,53181,VCV000053181,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD1,ALL_THREE_OBSERVED,True
+R516G,516,R516G,CF-causing,9,1303084,VCV001303084,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+A349P,349,A349P,No interpretation available,9,618892,VCV000618892,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+L320V,320,L320V,Non CF-causing,9,35894,VCV000035894,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+D993A,993,D993A,Varying clinical consequence,9,4646935,VCV004646935,Uncertain significance,"criteria provided, single submitter",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+V920L,920,V920L,Varying clinical consequence,9,53562,VCV000053562,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+V920L,920,V920L,Varying clinical consequence,9,1795633,VCV001795633,Uncertain significance,"criteria provided, single submitter",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+R258G,258,R258G,Varying clinical consequence,9,54055,VCV000054055,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+G314E,314,G314E,Varying clinical consequence,9,54089,VCV000054089,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+R933G,933,R933G,Varying clinical consequence,9,53569,VCV000053569,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+Q237H,237,Q237H,CF-causing,8,54043,VCV000054043,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+G480S,480,G480S,CF-causing,8,53254,VCV000053254,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+H199R,199,H199R,CF-causing,8,54019,VCV000054019,Pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+W1282G,1282,W1282G,CF-causing,8,53821,VCV000053821,Pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+V1240G,1240,V1240G,CF-causing,8,53795,VCV000053795,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+L346P,346,L346P,CF-causing,8,53171,VCV000053171,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+G194R,194,G194R,CF-causing,8,1300164,VCV001300164,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+G194R,194,G194R,CF-causing,8,2035365,VCV002035365,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD1,ALL_THREE_OBSERVED,True
+G149R,149,G149R,CF-causing,8,53951,VCV000053951,Pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+E403D,403,E403D,No interpretation available,8,53216,VCV000053216,Pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,PARTIALLY_OBSERVED,False
+E403D,403,E403D,No interpretation available,8,1706040,VCV001706040,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,PARTIALLY_OBSERVED,False
+H1085R,1085,H1085R,No interpretation available,8,7210,VCV000007210,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+I1139V,1139,I1139V,Non CF-causing,8,53736,VCV000053736,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+E588V,588,E588V,Varying clinical consequence,8,53375,VCV000053375,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD1,ALL_THREE_OBSERVED,True
+F575Y,575,F575Y,Varying clinical consequence,8,619674,VCV000619674,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD1,ALL_THREE_OBSERVED,True
+M265R,265,M265R,Varying clinical consequence,8,54058,VCV000054058,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+A349V,349,A349V,Varying clinical consequence,8,7172,VCV000007172,Uncertain significance,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+S912L,912,S912L,Varying clinical consequence,8,7205,VCV000007205,Uncertain significance,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+A120T,120,A120T,Varying clinical consequence,8,53774,VCV000053774,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+L1480P,1480,L1480P,Varying clinical consequence,8,909238,VCV000909238,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,C-term,ALL_UNRESOLVED,False
+R1283S,1283,R1283S,CF-causing,7,971487,VCV000971487,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+T1086I,1086,T1086I,CF-causing,7,53694,VCV000053694,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+D993G,993,D993G,CF-causing,7,2637539,VCV002637539,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+G463D,463,G463D,CF-causing,7,1330059,VCV001330059,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+H139L,139,H139L,CF-causing,7,53910,VCV000053910,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+P99L,99,P99L,CF-causing,7,53610,VCV000053610,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+R1283M,1283,R1283M,CF-causing,7,7167,VCV000007167,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+W1098C,1098,W1098C,CF-causing,7,53709,VCV000053709,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+W1098C,1098,W1098C,CF-causing,7,618905,VCV000618905,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+E60K,60,E60K,CF-causing,7,53386,VCV000053386,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,Lasso,ALL_THREE_OBSERVED,True
+G1123R,1123,G1123R,No interpretation available,7,53726,VCV000053726,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+M348K,348,M348K,No interpretation available,7,53173,VCV000053173,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+I980K,980,I980K,Varying clinical consequence,7,53604,VCV000053604,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+M1137V,1137,M1137V,Varying clinical consequence,7,53733,VCV000053733,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+D1312G,1312,D1312G,Varying clinical consequence,7,53857,VCV000053857,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD2,ALL_THREE_OBSERVED,True
+V1153E,1153,V1153E,Varying clinical consequence,7,53747,VCV000053747,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+A234D,234,A234D,CF-causing,6,618963,VCV000618963,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+R1066L,1066,R1066L,CF-causing,6,53678,VCV000053678,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+T604I,604,T604I,CF-causing,6,53395,VCV000053395,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+G1003E,1003,G1003E,CF-causing,6,53625,VCV000053625,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD2,ALL_THREE_OBSERVED,True
+G458V,458,G458V,CF-causing,6,7132,VCV000007132,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+L1065R,1065,L1065R,CF-causing,6,53676,VCV000053676,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+T465N,465,T465N,CF-causing,6,495896,VCV000495896,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+Y563D,563,Y563D,CF-causing,6,53342,VCV000053342,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+G91R,91,G91R,CF-causing,6,7183,VCV000007183,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+L1324P,1324,L1324P,CF-causing,6,53865,VCV000053865,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD2,ALL_THREE_OBSERVED,True
+L15P,15,L15P,CF-causing,6,634833,VCV000634833,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,Lasso,ALL_THREE_OBSERVED,True
+Y161D,161,Y161D,CF-causing,6,53965,VCV000053965,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+G27R,27,G27R,CF-causing,6,54059,VCV000054059,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,Lasso,ALL_THREE_OBSERVED,True
+I601F,601,I601F,CF-causing,6,53391,VCV000053391,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+V456F,456,V456F,CF-causing,6,53236,VCV000053236,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+M1137R,1137,M1137R,No interpretation available,6,53735,VCV000053735,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+L159S,159,L159S,No interpretation available,6,53962,VCV000053962,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+R709Q,709,R709Q,No interpretation available,6,53441,VCV000053441,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,R-domain,ALL_UNRESOLVED,False
+G461R,461,G461R,No interpretation available,6,4818470,VCV004818470,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+I556V,556,I556V,No interpretation available,6,7196,VCV000007196,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+I506M,506,I506M,No interpretation available,6,53278,VCV000053278,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+L365P,365,L365P,No interpretation available,6,53187,VCV000053187,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+C491R,491,C491R,Varying clinical consequence,6,53261,VCV000053261,Pathogenic,"criteria provided, single submitter",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD1,ALL_THREE_OBSERVED,True
+D806G,806,D806G,Varying clinical consequence,6,53487,VCV000053487,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,R-domain,ALL_UNRESOLVED,False
+R31L,31,R31L,Varying clinical consequence,6,54087,VCV000054087,Uncertain significance,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,Lasso,ALL_THREE_OBSERVED,True
+Q237E,237,Q237E,Varying clinical consequence,6,54042,VCV000054042,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+I506S,506,I506S,CF-causing,5,53277,VCV000053277,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+G27E,27,G27E,CF-causing,5,54062,VCV000054062,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,Lasso,ALL_THREE_OBSERVED,True
+H620P,620,H620P,CF-causing,5,53406,VCV000053406,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+K464E,464,K464E,CF-causing,5,973893,VCV000973893,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+Q493R,493,Q493R,CF-causing,5,53263,VCV000053263,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+S108F,108,S108F,CF-causing,5,53692,VCV000053692,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+A1087P,1087,A1087P,CF-causing,5,1163287,VCV001163287,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+A1319E,1319,A1319E,CF-causing,5,1706075,VCV001706075,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CLINVAR_UNCERTAIN_SIGNIFICANCE,NBD2,ALL_THREE_OBSERVED,True
+D579Y,579,D579Y,CF-causing,5,53363,VCV000053363,not provided,no classification provided,OTHER_OR_DRUG_RESPONSE,NBD1,ALL_THREE_OBSERVED,True
+G1265V,1265,G1265V,CF-causing,5,502505,VCV000502505,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CLINVAR_UNCERTAIN_SIGNIFICANCE,NBD2,ALL_THREE_OBSERVED,True
+G480D,480,G480D,CF-causing,5,53255,VCV000053255,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+G500D,500,G500D,CF-causing,5,290277,VCV000290277,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+G628A,628,G628A,CF-causing,5,555466,VCV000555466,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+R1070P,1070,R1070P,CF-causing,5,53686,VCV000053686,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+R560G,560,R560G,CF-causing,5,53330,VCV000053330,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+V1008D,1008,V1008D,CF-causing,5,53630,VCV000053630,Uncertain significance,no assertion criteria provided,CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD2,ALL_THREE_OBSERVED,True
+Y109H,109,Y109H,CF-causing,5,618894,VCV000618894,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+L453S,453,L453S,CF-causing,5,634834,VCV000634834,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+L102R,102,L102R,CF-causing,5,554293,VCV000554293,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+R117P,117,R117P,CF-causing,5,53764,VCV000053764,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+H1085P,1085,H1085P,CF-causing,5,1301326,VCV001301326,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD2,ALL_THREE_OBSERVED,True
+E822K,822,E822K,No interpretation available,5,53491,VCV000053491,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+G1247R,1247,G1247R,No interpretation available,5,618901,VCV000618901,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+G1247R,1247,G1247R,No interpretation available,5,4818546,VCV004818546,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+T351I,351,T351I,No interpretation available,5,495885,VCV000495885,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+R248T,248,R248T,No interpretation available,5,54053,VCV000054053,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+D1445N,1445,D1445N,No interpretation available,5,53941,VCV000053941,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,C-term,PARTIALLY_OBSERVED,False
+N1303I,1303,N1303I,No interpretation available,5,53846,VCV000053846,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+A238V,238,A238V,No interpretation available,5,2691661,VCV002691661,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+A309G,309,A309G,No interpretation available,5,54086,VCV000054086,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+E1409K,1409,E1409K,No interpretation available,5,53923,VCV000053923,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+E528D,528,E528D,No interpretation available,5,53289,VCV000053289,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+E528D,528,E528D,No interpretation available,5,2682301,VCV002682301,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+G213E,213,G213E,No interpretation available,5,411118,VCV000411118,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+H949L,949,H949L,No interpretation available,5,53578,VCV000053578,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+L1040P,1040,L1040P,No interpretation available,5,2443363,VCV002443363,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+L633I,633,L633I,No interpretation available,5,53410,VCV000053410,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+T582I,582,T582I,No interpretation available,5,53371,VCV000053371,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+W1282C,1282,W1282C,No interpretation available,5,598323,VCV000598323,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+Y563C,563,Y563C,No interpretation available,5,1706063,VCV001706063,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+A309D,309,A309D,Varying clinical consequence,5,554772,VCV000554772,Uncertain significance,"criteria provided, single submitter",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+R810G,810,R810G,Varying clinical consequence,5,53488,VCV000053488,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,R-domain,ALL_UNRESOLVED,False
+F1016S,1016,F1016S,Varying clinical consequence,5,53640,VCV000053640,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+I105N,105,I105N,CF-causing,4,53665,VCV000053665,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+L619S,619,L619S,CF-causing,4,53405,VCV000053405,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,NBD1,ALL_THREE_OBSERVED,True
+Q552P,552,Q552P,CF-causing,4,1331723,VCV001331723,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+A72D,72,A72D,CF-causing,4,4064589,VCV004064589,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,Lasso,ALL_THREE_OBSERVED,True
+Q452P,452,Q452P,CF-causing,4,1770677,VCV001770677,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,NBD1,ALL_THREE_OBSERVED,True
+Y569C,569,Y569C,CF-causing,4,53353,VCV000053353,Pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+A141D,141,A141D,CF-causing,4,53924,VCV000053924,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+A155P,155,A155P,CF-causing,4,53957,VCV000053957,not provided,no classification provided,OTHER_OR_DRUG_RESPONSE,TMD1,ALL_THREE_OBSERVED,True
+D110Y,110,D110Y,CF-causing,4,53705,VCV000053705,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+I444S,444,I444S,CF-causing,4,53232,VCV000053232,not provided,no classification provided,OTHER_OR_DRUG_RESPONSE,NBD1,ALL_THREE_OBSERVED,True
+K464N,464,K464N,CF-causing,4,53240,VCV000053240,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+L594P,594,L594P,CF-causing,4,455763,VCV000455763,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+Y517C,517,Y517C,CF-causing,4,618925,VCV000618925,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+E474K,474,E474K,CF-causing,4,634836,VCV000634836,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+L88S,88,L88S,No interpretation available,4,53533,VCV000053533,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+Y1092H,1092,Y1092H,No interpretation available,4,495930,VCV000495930,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+I331N,331,I331N,No interpretation available,4,54098,VCV000054098,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+S18I,18,S18I,No interpretation available,4,1747304,VCV001747304,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,Lasso,ALL_THREE_OBSERVED,True
+R1239S,1239,R1239S,No interpretation available,4,3231896,VCV003231896,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+R1239S,1239,R1239S,No interpretation available,4,4818544,VCV004818544,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+R347L,347,R347L,No interpretation available,4,7171,VCV000007171,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+S902R,902,S902R,No interpretation available,4,53546,VCV000053546,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,PARTIALLY_OBSERVED,False
+A1067T,1067,A1067T,No interpretation available,4,7159,VCV000007159,drug response,reviewed by expert panel,CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+L441P,441,L441P,No interpretation available,4,53228,VCV000053228,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+Y301C,301,Y301C,No interpretation available,4,198738,VCV000198738,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+E1433K,1433,E1433K,No interpretation available,4,558250,VCV000558250,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+G239R,239,G239R,No interpretation available,4,54046,VCV000054046,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+G509R,509,G509R,No interpretation available,4,618896,VCV000618896,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+I285F,285,I285F,No interpretation available,4,35892,VCV000035892,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+K163E,163,K163E,No interpretation available,4,858501,VCV000858501,Pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+L145H,145,L145H,No interpretation available,4,2680711,VCV002680711,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+L568F,568,L568F,No interpretation available,4,53350,VCV000053350,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+Q179K,179,Q179K,No interpretation available,4,53993,VCV000053993,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+T1086A,1086,T1086A,No interpretation available,4,871193,VCV000871193,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+T388M,388,T388M,No interpretation available,4,495887,VCV000495887,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+V520I,520,V520I,No interpretation available,4,35825,VCV000035825,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+V562L,562,V562L,No interpretation available,4,53341,VCV000053341,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+Y577F,577,Y577F,No interpretation available,4,53362,VCV000053362,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+I125T,125,I125T,Non CF-causing,4,53802,VCV000053802,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+H1375N,1375,H1375N,Non CF-causing,4,53894,VCV000053894,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CLINVAR_UNCERTAIN_SIGNIFICANCE,NBD2,ALL_THREE_OBSERVED,True
+S1426F,1426,S1426F,Non CF-causing,4,455780,VCV000455780,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CLINVAR_UNCERTAIN_SIGNIFICANCE,NBD2,ALL_THREE_OBSERVED,True
+Y89C,89,Y89C,Non CF-causing,4,53541,VCV000053541,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD1,ALL_THREE_OBSERVED,True
+P140S,140,P140S,Varying clinical consequence,4,53912,VCV000053912,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+S1045Y,1045,S1045Y,Varying clinical consequence,4,917606,VCV000917606,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+C866Y,866,C866Y,Varying clinical consequence,4,35843,VCV000035843,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+H609L,609,H609L,Varying clinical consequence,4,53399,VCV000053399,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD1,ALL_THREE_OBSERVED,True
+Y1073C,1073,Y1073C,Varying clinical consequence,4,3381026,VCV003381026,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+D924N,924,D924N,Varying clinical consequence,4,53565,VCV000053565,Uncertain significance,reviewed by expert panel,CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+A1067P,1067,A1067P,CF-causing,3,53679,VCV000053679,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+D993Y,993,D993Y,CF-causing,3,53611,VCV000053611,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+F587I,587,F587I,CF-causing,3,1779538,VCV001779538,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+M150K,150,M150K,CF-causing,3,801156,VCV000801156,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+V603F,603,V603F,CF-causing,3,53393,VCV000053393,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,NBD1,ALL_THREE_OBSERVED,True
+M1354R,1354,4193T->G,CF-causing,3,618956,VCV000618956,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CLINVAR_UNCERTAIN_SIGNIFICANCE,NBD2,ALL_THREE_OBSERVED,True
+D1270Y,1270,D1270Y,CF-causing,3,2502286,VCV002502286,drug response,reviewed by expert panel,OTHER_OR_DRUG_RESPONSE,NBD2,ALL_THREE_OBSERVED,True
+H147P,147,H147P,CF-causing,3,1706042,VCV001706042,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD1,ALL_THREE_OBSERVED,True
+H954P,954,H954P,CF-causing,3,53582,VCV000053582,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD2,ALL_THREE_OBSERVED,True
+Y563H,563,Y563H,CF-causing,3,618927,VCV000618927,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+D979V,979,D979V,CF-causing,3,53603,VCV000053603,Pathogenic,reviewed by expert panel,CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+Y161C,161,Y161C,No interpretation available,3,53967,VCV000053967,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+G178E,178,G178E,No interpretation available,3,53992,VCV000053992,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+Q372H,372,Q372H,No interpretation available,3,638165,VCV000638165,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+G1047R,1047,G1047R,No interpretation available,3,53659,VCV000053659,not provided,no classification provided,CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+P499A,499,P499A,No interpretation available,3,53268,VCV000053268,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+T1220I,1220,3791C/T,No interpretation available,3,7214,VCV000007214,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+A1067V,1067,A1067V,No interpretation available,3,53683,VCV000053683,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+A455V,455,A455V,No interpretation available,3,411125,VCV000411125,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+A566T,566,A566T,No interpretation available,3,3063857,VCV003063857,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+E528K,528,E528K,No interpretation available,3,502030,VCV000502030,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+G27V,27,G27V,No interpretation available,3,495958,VCV000495958,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,Lasso,ALL_THREE_OBSERVED,True
+G544S,544,G544S,No interpretation available,3,555335,VCV000555335,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+I1051V,1051,I1051V,No interpretation available,3,495927,VCV000495927,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+L1029M,1029,L1029M,No interpretation available,3,1705999,VCV001705999,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+L1034P,1034,L1034P,No interpretation available,3,1706008,VCV001706008,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+L183I,183,L183I,No interpretation available,3,53997,VCV000053997,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+N1303H,1303,N1303H,No interpretation available,3,7218,VCV000007218,Pathogenic,no assertion criteria provided,CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+P1013H,1013,P1013H,No interpretation available,3,35859,VCV000035859,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+P205T,205,P205T,No interpretation available,3,582431,VCV000582431,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+R170C,170,R170C,No interpretation available,3,455782,VCV000455782,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+S42F,42,S42F,No interpretation available,3,35819,VCV000035819,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,Lasso,ALL_THREE_OBSERVED,True
+T1036I,1036,T1036I,No interpretation available,3,618964,VCV000618964,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+V93D,93,V93D,No interpretation available,3,1796028,VCV001796028,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+Y569H,569,Y569H,No interpretation available,3,53351,VCV000053351,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+G424S,424,G424S,Non CF-causing,3,286406,VCV000286406,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CLINVAR_UNCERTAIN_SIGNIFICANCE,NBD1,ALL_UNRESOLVED,False
+V920M,920,V920M,Non CF-causing,3,53561,VCV000053561,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+L333F,333,L333F,Varying clinical consequence,3,35895,VCV000035895,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+N186K,186,N186K,Varying clinical consequence,3,558712,VCV000558712,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+N186K,186,N186K,Varying clinical consequence,3,3391202,VCV003391202,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+N187K,187,N187K,Varying clinical consequence,3,54001,VCV000054001,Uncertain significance,"criteria provided, single submitter",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True
+D979A,979,D979A,Varying clinical consequence,3,53602,VCV000053602,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+I1366T,1366,I1366T,Varying clinical consequence,3,526019,VCV000526019,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD2,ALL_THREE_OBSERVED,True
+E292K,292,E292K,CF-causing,2,54077,VCV000054077,not provided,no classification provided,OTHER_OR_DRUG_RESPONSE,TMD1,ALL_THREE_OBSERVED,True
+F200I,200,F200I,CF-causing,2,54021,VCV000054021,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+R555G,555,R555G,CF-causing,2,53324,VCV000053324,not provided,no classification provided,OTHER_OR_DRUG_RESPONSE,NBD1,ALL_THREE_OBSERVED,True
+C590Y,590,C590Y,CF-causing,2,950525,VCV000950525,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,NBD1,ALL_THREE_OBSERVED,True
+D192N,192,D192N,CF-causing,2,54003,VCV000054003,not provided,no classification provided,OTHER_OR_DRUG_RESPONSE,TMD1,ALL_THREE_OBSERVED,True
+E1104K,1104,E1104K,CF-causing,2,4818532,VCV004818532,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+G226R,226,G226R,CF-causing,2,618962,VCV000618962,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD1,ALL_THREE_OBSERVED,True
+G226R,226,G226R,CF-causing,2,1755345,VCV001755345,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD1,ALL_THREE_OBSERVED,True
+G85R,85,G85R,CF-causing,2,2567868,VCV002567868,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+L167R,167,L167R,CF-causing,2,53982,VCV000053982,not provided,no classification provided,OTHER_OR_DRUG_RESPONSE,TMD1,ALL_THREE_OBSERVED,True
+M150R,150,M150R,CF-causing,2,618958,VCV000618958,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD1,ALL_THREE_OBSERVED,True
+P205L,205,P205L,CF-causing,2,3339570,VCV003339570,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+S50P,50,S50P,CF-causing,2,53266,VCV000053266,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,Lasso,ALL_THREE_OBSERVED,True
+T164P,164,T164P,CF-causing,2,2503927,VCV002503927,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD1,ALL_THREE_OBSERVED,True
+T501I,501,T501I,CF-causing,2,1052121,VCV001052121,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+W496R,496,W496R,CF-causing,2,439055,VCV000439055,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+Y917C,917,Y917C,CF-causing,2,53558,VCV000053558,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+R792G,792,R792G,No interpretation available,2,35840,VCV000035840,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+A62P,62,A62P,No interpretation available,2,820179,VCV000820179,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,Lasso,ALL_THREE_OBSERVED,True
+P439S,439,P439S,No interpretation available,2,53226,VCV000053226,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+F1107L,1107,F1107L,No interpretation available,2,801154,VCV000801154,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+I907V,907,2851A/G,No interpretation available,2,53547,VCV000053547,Uncertain significance,no assertion criteria provided,CFTR2_NO_INTERPRETATION,TMD2,PARTIALLY_OBSERVED,False
+G451V,451,G451V,No interpretation available,2,553569,VCV000553569,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+Q237P,237,Q237P,No interpretation available,2,1921232,VCV001921232,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+S912T,912,S912T,No interpretation available,2,495914,VCV000495914,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+H620Q,620,H620Q,No interpretation available,2,53407,VCV000053407,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+S589I,589,S589I,No interpretation available,2,53384,VCV000053384,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+S434P,434,S434P,No interpretation available,2,928494,VCV000928494,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_UNRESOLVED,False
+G970S,970,G970S,No interpretation available,2,53589,VCV000053589,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+Q1313K,1313,Q1313K,No interpretation available,2,53858,VCV000053858,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+E527G,527,E527G,No interpretation available,2,552690,VCV000552690,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+K1060T,1060,K1060T,No interpretation available,2,53671,VCV000053671,drug response,reviewed by expert panel,CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+D565G,565,D565G,No interpretation available,2,53344,VCV000053344,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+E116Q,116,E116Q,No interpretation available,2,2735077,VCV002735077,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+A209S,209,A209S,No interpretation available,2,54030,VCV000054030,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+A46V,46,A46V,No interpretation available,2,593277,VCV000593277,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,Lasso,ALL_THREE_OBSERVED,True
+A534E,534,A534E,No interpretation available,2,7173,VCV000007173,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+A559P,559,A559P,No interpretation available,2,2573429,VCV002573429,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+D1154Y,1154,D1154Y,No interpretation available,2,53748,VCV000053748,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+D1168G,1168,D1168G,No interpretation available,2,53763,VCV000053763,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+D1377H,1377,D1377H,No interpretation available,2,53896,VCV000053896,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+D373N,373,D373N,No interpretation available,2,161998,VCV000161998,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+D579H,579,D579H,No interpretation available,2,1705994,VCV001705994,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+E379K,379,E379K,No interpretation available,2,53199,VCV000053199,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+F587S,587,F587S,No interpretation available,2,618900,VCV000618900,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+F87L,87,F87L,No interpretation available,2,53520,VCV000053520,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+G1047S,1047,G1047S,No interpretation available,2,950097,VCV000950097,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+G1173S,1173,G1173S,No interpretation available,2,497599,VCV000497599,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,PARTIALLY_OBSERVED,False
+G1244R,1244,G1244R,No interpretation available,2,53796,VCV000053796,Pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+G1244V,1244,G1244V,No interpretation available,2,53798,VCV000053798,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+G1265R,1265,G1265R,No interpretation available,2,1706052,VCV001706052,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+G241E,241,G241E,No interpretation available,2,2579737,VCV002579737,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+G542E,542,G542E,No interpretation available,2,2562518,VCV002562518,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+G921E,921,G921E,No interpretation available,2,35847,VCV000035847,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+I1023T,1023,I1023T,No interpretation available,2,3491636,VCV003491636,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+I1267N,1267,I1267N,No interpretation available,2,1735067,VCV001735067,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+I1328T,1328,I1328T,No interpretation available,2,439080,VCV000439080,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+I444T,444,I444T,No interpretation available,2,551988,VCV000551988,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+I448R,448,I448R,No interpretation available,2,4764199,VCV004764199,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+I752S,752,I752S,No interpretation available,2,526021,VCV000526021,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,R-domain,ALL_UNRESOLVED,False
+K163M,163,K163M,No interpretation available,2,1392039,VCV001392039,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+K598E,598,K598E,No interpretation available,2,550492,VCV000550492,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+L1093P,1093,L1093P,No interpretation available,2,53701,VCV000053701,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+L1227S,1227,L1227S,No interpretation available,2,53787,VCV000053787,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+L233F,233,L233F,No interpretation available,2,1330412,VCV001330412,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+L375F,375,L375F,No interpretation available,2,53196,VCV000053196,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+L468P,468,L468P,No interpretation available,2,53247,VCV000053247,not provided,no classification provided,CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+L570S,570,L570S,No interpretation available,2,1705993,VCV001705993,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+L636P,636,L636P,No interpretation available,2,551941,VCV000551941,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+M595V,595,M595V,No interpretation available,2,439477,VCV000439477,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+N396D,396,N396D,No interpretation available,2,1679959,VCV001679959,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+P111L,111,P111L,No interpretation available,2,53720,VCV000053720,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+P740L,740,P740L,No interpretation available,2,820889,VCV000820889,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+Q237R,237,Q237R,No interpretation available,2,502028,VCV000502028,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+R1066S,1066,R1066S,No interpretation available,2,53677,VCV000053677,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+R153I,153,R153I,No interpretation available,2,3778316,VCV003778316,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+R153K,153,R153K,No interpretation available,2,1518294,VCV001518294,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+S158N,158,S158N,No interpretation available,2,618959,VCV000618959,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+S686Y,686,S686Y,No interpretation available,2,550500,VCV000550500,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+S977P,977,S977P,No interpretation available,2,53599,VCV000053599,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+T501A,501,T501A,No interpretation available,2,53270,VCV000053270,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+T908N,908,T908N,No interpretation available,2,53548,VCV000053548,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,PARTIALLY_OBSERVED,False
+V317A,317,V317A,No interpretation available,2,495964,VCV000495964,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+Y919C,919,Y919C,No interpretation available,2,53560,VCV000053560,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+A9V,9,A9V,Varying clinical consequence,2,618014,VCV000618014,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,Lasso,ALL_THREE_OBSERVED,True
+D529G,529,D529G,Varying clinical consequence,2,53293,VCV000053293,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD1,ALL_THREE_OBSERVED,True
+V938G,938,V938G,Varying clinical consequence,2,35850,VCV000035850,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+A566D,566,A566D,CF-causing,1,556179,VCV000556179,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+D572N,572,D572N,CF-causing,1,53358,VCV000053358,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+E1104V,1104,E1104V,CF-causing,1,3381027,VCV003381027,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+F1078S,1078,F1078S,CF-causing,1,4818531,VCV004818531,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+H199Q,199,H199Q,CF-causing,1,54020,VCV000054020,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+I497S,497,I497S,CF-causing,1,977086,VCV000977086,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,NBD1,ALL_THREE_OBSERVED,True
+I601T,601,I601T,CF-causing,1,53392,VCV000053392,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,NBD1,ALL_THREE_OBSERVED,True
+L102P,102,L102P,CF-causing,1,53642,VCV000053642,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD1,ALL_THREE_OBSERVED,True
+L293P,293,L293P,CF-causing,1,1064636,VCV001064636,Uncertain significance,no assertion criteria provided,CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD1,ALL_THREE_OBSERVED,True
+L610S,610,L610S,CF-causing,1,53400,VCV000053400,not provided,no classification provided,OTHER_OR_DRUG_RESPONSE,NBD1,ALL_THREE_OBSERVED,True
+L633P,633,L633P,CF-causing,1,53411,VCV000053411,not provided,no classification provided,OTHER_OR_DRUG_RESPONSE,NBD1,ALL_THREE_OBSERVED,True
+M1140K,1140,M1140K,CF-causing,1,53738,VCV000053738,Likely pathogenic,"criteria provided, single submitter",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+P1021L,1021,P1021L,CF-causing,1,455774,VCV000455774,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CONCORDANT_PATHOGENIC,TMD2,ALL_THREE_OBSERVED,True
+Q30P,30,Q30P,CF-causing,1,1765393,VCV001765393,Uncertain significance,"criteria provided, single submitter",CLINVAR_UNCERTAIN_SIGNIFICANCE,Lasso,ALL_THREE_OBSERVED,True
+Q493L,493,Q493L,CF-causing,1,1706058,VCV001706058,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+Q98P,98,Q98P,CF-causing,1,53605,VCV000053605,not provided,no classification provided,OTHER_OR_DRUG_RESPONSE,TMD1,ALL_THREE_OBSERVED,True
+D567N,567,D567N,No interpretation available,1,1778293,VCV001778293,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+I86M,86,I86M,No interpretation available,1,4746047,VCV004746047,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+R75L,75,R75L,No interpretation available,1,53461,VCV000053461,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,Lasso,ALL_THREE_OBSERVED,True
+A357T,357,A357T,No interpretation available,1,3383043,VCV003383043,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+V1240M,1240,3850G->A,No interpretation available,1,3491652,VCV003491652,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+I586V,586,I586V,No interpretation available,1,1706045,VCV001706045,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+M961L,961,M961L,No interpretation available,1,4064516,VCV004064516,Uncertain significance,no assertion criteria provided,CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+D565E,565,D565E,No interpretation available,1,4525966,VCV004525966,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+L1388P,1388,L1388P,No interpretation available,1,1402955,VCV001402955,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+R553Q,553,R553Q,No interpretation available,1,7225,VCV000007225,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+E54G,54,293A->G,No interpretation available,1,1776565,VCV001776565,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,Lasso,ALL_THREE_OBSERVED,True
+A107P,107,A107P,No interpretation available,1,618955,VCV000618955,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+A1285V,1285,A1285V,No interpretation available,1,53823,VCV000053823,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+A1364V,1364,A1364V,No interpretation available,1,53885,VCV000053885,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+A1466S,1466,A1466S,No interpretation available,1,850844,VCV000850844,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,C-term,ALL_UNRESOLVED,False
+A357V,357,A357V,No interpretation available,1,2573422,VCV002573422,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+A399G,399,A399G,No interpretation available,1,4541327,VCV004541327,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+A399V,399,A399V,No interpretation available,1,495889,VCV000495889,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+A457T,457,A457T,No interpretation available,1,1709585,VCV001709585,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+A462S,462,A462S,No interpretation available,1,910202,VCV000910202,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+A561V,561,A561V,No interpretation available,1,1685619,VCV001685619,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+A872E,872,A872E,No interpretation available,1,4818509,VCV004818509,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+A923D,923,A923D,No interpretation available,1,35848,VCV000035848,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+C225R,225,C225R,No interpretation available,1,54038,VCV000054038,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+C491F,491,C491F,No interpretation available,1,555390,VCV000555390,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+D1154G,1154,D1154G,No interpretation available,1,53749,VCV000053749,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+D1154N,1154,D1154N,No interpretation available,1,932922,VCV000932922,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+D579N,579,D579N,No interpretation available,1,1779062,VCV001779062,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+D651H,651,D651H,No interpretation available,1,2630690,VCV002630690,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_UNRESOLVED,False
+D651N,651,D651N,No interpretation available,1,820398,VCV000820398,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_UNRESOLVED,False
+D674V,674,D674V,No interpretation available,1,3832544,VCV003832544,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_UNRESOLVED,False
+D828G,828,D828G,No interpretation available,1,2182436,VCV002182436,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+D979G,979,D979G,No interpretation available,1,918155,VCV000918155,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+D984V,984,D984V,No interpretation available,1,1798061,VCV001798061,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+E1401G,1401,E1401G,No interpretation available,1,53921,VCV000053921,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+E1433G,1433,E1433G,No interpretation available,1,2001307,VCV002001307,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+E257G,257,E257G,No interpretation available,1,1760251,VCV001760251,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+E279D,279,E279D,No interpretation available,1,501133,VCV000501133,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+E384K,384,E384K,No interpretation available,1,1734014,VCV001734014,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+E514K,514,E514K,No interpretation available,1,4825411,VCV004825411,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+E588K,588,E588K,No interpretation available,1,933197,VCV000933197,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+E60G,60,E60G,No interpretation available,1,4064643,VCV004064643,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,Lasso,ALL_THREE_OBSERVED,True
+E725K,725,E725K,No interpretation available,1,53448,VCV000053448,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,R-domain,ALL_UNRESOLVED,False
+E826K,826,E826K,No interpretation available,1,53495,VCV000053495,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+F1052S,1052,F1052S,No interpretation available,1,3251828,VCV003251828,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+F1257L,1257,F1257L,No interpretation available,1,53809,VCV000053809,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+F1286S,1286,F1286S,No interpretation available,1,7184,VCV000007184,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+F693L,693,F693L,No interpretation available,1,53436,VCV000053436,Likely benign,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+F693L,693,F693L,No interpretation available,1,194336,VCV000194336,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,R-domain,ALL_UNRESOLVED,False
+F81L,81,F81L,No interpretation available,1,1706005,VCV001706005,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+F81L,81,F81L,No interpretation available,1,1896873,VCV001896873,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+F834L,834,F834L,No interpretation available,1,455769,VCV000455769,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+F992L,992,F992L,No interpretation available,1,495920,VCV000495920,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+F992L,992,F992L,No interpretation available,1,572478,VCV000572478,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+G1047C,1047,G1047C,No interpretation available,1,283775,VCV000283775,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+G1130A,1130,G1130A,No interpretation available,1,53730,VCV000053730,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+G1208D,1208,G1208D,No interpretation available,1,550417,VCV000550417,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+G1298A,1298,G1298A,No interpretation available,1,35878,VCV000035878,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+G1298V,1298,G1298V,No interpretation available,1,594547,VCV000594547,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+G1349S,1349,G1349S,No interpretation available,1,53880,VCV000053880,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+G213V,213,G213V,No interpretation available,1,3385204,VCV003385204,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+G253R,253,G253R,No interpretation available,1,1401895,VCV001401895,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+G314V,314,G314V,No interpretation available,1,2691472,VCV002691472,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+G437D,437,G437D,No interpretation available,1,863689,VCV000863689,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,PARTIALLY_OBSERVED,False
+G461V,461,G461V,No interpretation available,1,4818471,VCV004818471,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+G480V,480,G480V,No interpretation available,1,1772665,VCV001772665,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+G486E,486,G486E,No interpretation available,1,4073478,VCV004073478,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+G509V,509,G509V,No interpretation available,1,2443360,VCV002443360,Likely pathogenic,no assertion criteria provided,CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+G545R,545,G545R,No interpretation available,1,1305160,VCV001305160,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+G545V,545,G545V,No interpretation available,1,558716,VCV000558716,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+H620L,620,H620L,No interpretation available,1,3895699,VCV003895699,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+H939D,939,H939D,No interpretation available,1,53572,VCV000053572,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+I119V,119,I119V,No interpretation available,1,35870,VCV000035870,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+I177T,177,I177T,No interpretation available,1,53990,VCV000053990,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+I231R,231,I231R,No interpretation available,1,1756208,VCV001756208,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+I502N,502,I502N,No interpretation available,1,53271,VCV000053271,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+I506N,506,I506N,No interpretation available,1,1705989,VCV001705989,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+I853V,853,I853V,No interpretation available,1,439487,VCV000439487,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+K1060E,1060,K1060E,No interpretation available,1,1410754,VCV001410754,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+K1351E,1351,K1351E,No interpretation available,1,53881,VCV000053881,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+K1365R,1365,K1365R,No interpretation available,1,4064653,VCV004064653,Uncertain significance,no assertion criteria provided,CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+K163T,163,K163T,No interpretation available,1,618960,VCV000618960,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+K26E,26,K26E,No interpretation available,1,575729,VCV000575729,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,Lasso,ALL_THREE_OBSERVED,True
+K481E,481,K481E,No interpretation available,1,2039385,VCV002039385,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+K522E,522,K522E,No interpretation available,1,1321364,VCV001321364,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+K536E,536,K536E,No interpretation available,1,595238,VCV000595238,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+K684N,684,K684N,No interpretation available,1,863914,VCV000863914,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+K684N,684,K684N,No interpretation available,1,929213,VCV000929213,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+K951E,951,K951E,No interpretation available,1,2498346,VCV002498346,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+L1034F,1034,L1034F,No interpretation available,1,500752,VCV000500752,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+L1040F,1040,L1040F,No interpretation available,1,618953,VCV000618953,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+L1091F,1091,L1091F,No interpretation available,1,495929,VCV000495929,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+L1091F,1091,L1091F,No interpretation available,1,1163288,VCV001163288,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+L1242H,1242,L1242H,No interpretation available,1,1706019,VCV001706019,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+L1260P,1260,L1260P,No interpretation available,1,1734822,VCV001734822,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+L1335F,1335,L1335F,No interpretation available,1,53871,VCV000053871,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+L136R,136,L136R,No interpretation available,1,1029875,VCV001029875,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+L1414S,1414,L1414S,No interpretation available,1,53927,VCV000053927,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+L206F,206,L206F,No interpretation available,1,54028,VCV000054028,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+L206F,206,L206F,No interpretation available,1,3266629,VCV003266629,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+L233V,233,L233V,No interpretation available,1,389270,VCV000389270,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+L327P,327,L327P,No interpretation available,1,3231940,VCV003231940,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+L32M,32,L32M,No interpretation available,1,502597,VCV000502597,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,Lasso,ALL_THREE_OBSERVED,True
+L383S,383,L383S,No interpretation available,1,53201,VCV000053201,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+L428V,428,L428V,No interpretation available,1,1705987,VCV001705987,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_UNRESOLVED,False
+L541P,541,L541P,No interpretation available,1,2036998,VCV002036998,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+L610I,610,L610I,No interpretation available,1,4868810,VCV004868810,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+L69R,69,L69R,No interpretation available,1,1706067,VCV001706067,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,Lasso,ALL_THREE_OBSERVED,True
+L973F,973,L973F,No interpretation available,1,53596,VCV000053596,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+L973F,973,L973F,No interpretation available,1,1244250,VCV001244250,Pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+M1028R,1028,M1028R,No interpretation available,1,53647,VCV000053647,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+M1105R,1105,M1105R,No interpretation available,1,53716,VCV000053716,not provided,no classification provided,CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+M1407T,1407,M1407T,No interpretation available,1,1706050,VCV001706050,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+M469V,469,M469V,No interpretation available,1,53248,VCV000053248,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+N1148K,1148,N1148K,No interpretation available,1,53745,VCV000053745,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+N189K,189,N189K,No interpretation available,1,54002,VCV000054002,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+N287Y,287,N287Y,No interpretation available,1,54069,VCV000054069,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+N369Y,369,N369Y,No interpretation available,1,3231818,VCV003231818,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+N423K,423,N423K,No interpretation available,1,655139,VCV000655139,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_UNRESOLVED,False
+N900K,900,N900K,No interpretation available,1,161997,VCV000161997,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,PARTIALLY_OBSERVED,False
+P1021S,1021,P1021S,No interpretation available,1,53643,VCV000053643,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+P1021T,1021,P1021T,No interpretation available,1,550702,VCV000550702,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+P1290L,1290,P1290L,No interpretation available,1,1735660,VCV001735660,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+P1372L,1372,P1372L,No interpretation available,1,53893,VCV000053893,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+P1372T,1372,P1372T,No interpretation available,1,1737946,VCV001737946,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+P324L,324,P324L,No interpretation available,1,54095,VCV000054095,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+P477S,477,P477S,No interpretation available,1,455762,VCV000455762,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+P704L,704,P704L,No interpretation available,1,4685894,VCV004685894,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+Q151K,151,Q151K,No interpretation available,1,53953,VCV000053953,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+Q2P,2,Q2P,No interpretation available,1,987858,VCV000987858,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,Lasso,PARTIALLY_OBSERVED,False
+Q378R,378,Q378R,No interpretation available,1,556550,VCV000556550,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+Q493P,493,Q493P,No interpretation available,1,53262,VCV000053262,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+Q552K,552,Q552K,No interpretation available,1,618899,VCV000618899,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+Q890R,890,Q890R,No interpretation available,1,53540,VCV000053540,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_UNRESOLVED,False
+R1259T,1259,R1259T,No interpretation available,1,1394138,VCV001394138,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+R1358S,1358,R1358S,No interpretation available,1,4709531,VCV004709531,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+R1479K,1479,R1479K,No interpretation available,1,502054,VCV000502054,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,C-term,ALL_UNRESOLVED,False
+R248G,248,R248G,No interpretation available,1,555450,VCV000555450,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD1,ALL_THREE_OBSERVED,True
+R248K,248,R248K,No interpretation available,1,3491594,VCV003491594,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+R600G,600,R600G,No interpretation available,1,53390,VCV000053390,not provided,no classification provided,CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+R792Q,792,R792Q,No interpretation available,1,618951,VCV000618951,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+S1118C,1118,S1118C,No interpretation available,1,53721,VCV000053721,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+S1188L,1188,S1188L,No interpretation available,1,828070,VCV000828070,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_UNRESOLVED,False
+S118F,118,S118F,No interpretation available,1,3231890,VCV003231890,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+S1233P,1233,S1233P,No interpretation available,1,2447400,VCV002447400,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+S1359Y,1359,S1359Y,No interpretation available,1,2447430,VCV002447430,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+S307N,307,S307N,No interpretation available,1,54085,VCV000054085,not provided,no classification provided,CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+S422F,422,S422F,No interpretation available,1,76610,VCV000076610,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_UNRESOLVED,False
+S431G,431,S431G,No interpretation available,1,1801954,VCV001801954,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_UNRESOLVED,False
+S519G,519,S519G,No interpretation available,1,4841331,VCV004841331,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+S624R,624,S624R,No interpretation available,1,2084320,VCV002084320,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+S877A,877,S877A,No interpretation available,1,455771,VCV000455771,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+T1086S,1086,T1086S,No interpretation available,1,411123,VCV000411123,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+T1396P,1396,T1396P,No interpretation available,1,577827,VCV000577827,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+T338A,338,T338A,No interpretation available,1,53165,VCV000053165,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+T360I,360,T360I,No interpretation available,1,1785748,VCV001785748,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+T465I,465,T465I,No interpretation available,1,1705988,VCV001705988,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+T582S,582,T582S,No interpretation available,1,1704501,VCV001704501,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+T760M,760,T760M,No interpretation available,1,53467,VCV000053467,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,R-domain,ALL_UNRESOLVED,False
+T854A,854,T854A,No interpretation available,1,3896455,VCV003896455,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+T896I,896,T896I,No interpretation available,1,555384,VCV000555384,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_UNRESOLVED,False
+V1020A,1020,V1020A,No interpretation available,1,4855070,VCV004855070,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+V1024E,1024,V1024E,No interpretation available,1,1727264,VCV001727264,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+V1108L,1108,V1108L,No interpretation available,1,53719,VCV000053719,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+V11I,11,V11I,No interpretation available,1,495928,VCV000495928,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,Lasso,ALL_THREE_OBSERVED,True
+V1293I,1293,V1293I,No interpretation available,1,552594,VCV000552594,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+V1322F,1322,V1322F,No interpretation available,1,2067185,VCV002067185,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+V1421E,1421,V1421E,No interpretation available,1,2627368,VCV002627368,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD2,ALL_THREE_OBSERVED,True
+V520D,520,V520D,No interpretation available,1,618898,VCV000618898,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+V855I,855,V855I,No interpretation available,1,53513,VCV000053513,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+V855I,855,V855I,No interpretation available,1,647129,VCV000647129,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,TMD2,ALL_THREE_OBSERVED,True
+W19C,19,W19C,No interpretation available,1,54013,VCV000054013,Likely pathogenic,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,Lasso,ALL_THREE_OBSERVED,True
+W277R,277,W277R,No interpretation available,1,54065,VCV000054065,not provided,no classification provided,CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+W277R,277,W277R,No interpretation available,1,4535677,VCV004535677,Uncertain significance,"criteria provided, single submitter",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+Y1092C,1092,Y1092C,No interpretation available,1,500634,VCV000500634,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD2,ALL_THREE_OBSERVED,True
+Y122C,122,Y122C,No interpretation available,1,411120,VCV000411120,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,TMD1,ALL_THREE_OBSERVED,True
+Y1381H,1381,Y1381H,No interpretation available,1,53900,VCV000053900,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD2,ALL_THREE_OBSERVED,True
+S589T,589,S589T,No interpretation available,1,53383,VCV000053383,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CLINVAR_CONFLICTING_CLASSIFICATIONS,NBD1,ALL_THREE_OBSERVED,True
+H484Y,484,H484Y,No interpretation available,1,53257,VCV000053257,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_NO_INTERPRETATION,NBD1,ALL_THREE_OBSERVED,True
+M152L,152,M152L,Non CF-causing,1,439479,VCV000439479,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CLINVAR_UNCERTAIN_SIGNIFICANCE,TMD1,ALL_THREE_OBSERVED,True
+R1048G,1048,R1048G,Varying clinical consequence,1,4847260,VCV004847260,Uncertain significance,"criteria provided, single submitter",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD2,ALL_THREE_OBSERVED,True
+D529N,529,D529N,Varying clinical consequence,1,552131,VCV000552131,Uncertain significance,no assertion criteria provided,CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD1,ALL_THREE_OBSERVED,True
+I530N,530,I530N,Varying clinical consequence,1,1705991,VCV001705991,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",CFTR2_VARYING_CLINICAL_CONSEQUENCE,NBD1,ALL_THREE_OBSERVED,True
+V322M,322,V322M,Varying clinical consequence,1,43580,VCV000043580,Uncertain significance,"criteria provided, multiple submitters, no conflicts",CFTR2_VARYING_CLINICAL_CONSEQUENCE,TMD1,ALL_THREE_OBSERVED,True

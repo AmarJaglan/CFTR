@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+biopython
+gemmi
+pandas
+sqlalchemy
+pytest
+httpx

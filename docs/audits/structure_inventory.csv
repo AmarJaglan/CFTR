@@ -1,0 +1,6 @@
+structure_id,source_filename,file_sha256,title,experimental_method,resolution,structure_type,has_cftr,total_polymer_chains,deposition_date
+1AV5,1AV5.cif,2e952dad865cbf27f1de61bc2fb31655339a1fe1ea6f77c382a29f61c3ca3826,PKCI-SUBSTRATE ANALOG,X-RAY DIFFRACTION,2.0,NON_CFTR,False,2,1997-09-25
+5UAK,5UAK(1).cif,9df8db7f71796a6b66254012d0f64711725bce57f6d21f1b62c2563cd6afea23,"Dephosphorylated, ATP-free human cystic fibrosis transmembrane conductance regulator (CFTR)",ELECTRON MICROSCOPY,3.87,FULL_LENGTH,True,2,2016-12-19
+6MSM,6MSM(1).cif,d387fdca7bf379793faa0b7abd0a138e813fdeb078a7227a1299ee1175bd29dd,"Phosphorylated, ATP-bound human cystic fibrosis transmembrane conductance regulator (CFTR)",ELECTRON MICROSCOPY,3.2,FULL_LENGTH,True,2,2018-10-16
+7JQ4,7jq4.cif,c667dc1a232a5d698148df4dd8d258440007019a1c0a18b3348303c508bd8c13,Structure of the SARS-CoV-2 main protease in complex with inhibitor MPI7,X-RAY DIFFRACTION,1.65,NON_CFTR,False,1,2020-08-10
+8EIQ,8EIQ(1).cif,541eadc473b4efbb62b1a39748539def0d103d15be7b01c19e92a992acf0e834,"The complex of phosphorylated human delta F508 cystic fibrosis transmembrane conductance regulator (CFTR) with Trikafta [elexacaftor (VX-445), tezacaftor (VX-661), ivacaftor (VX-770)] and ATP/Mg",ELECTRON MICROSCOPY,3.0,FULL_LENGTH,True,2,2022-09-15

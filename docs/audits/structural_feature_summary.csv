@@ -1,0 +1,4 @@
+structure_id,source_filename,canonical_positions_total,eligible_positions,ineligible_unresolved,ineligible_not_covered,calculated_rsa_count,calculated_contacts_count,calculated_sec_struct_count,deposited_helix_count,deposited_sheet_count,unannotated_coil_count,buried_residues_count,intermediate_residues_count,surface_residues_count,mean_rsa,mean_contacts
+5UAK,5UAK(1).cif,1480,1139,341,0,1139,1139,1139,807,91,241,535,426,178,0.2696,22.61
+6MSM,6MSM(1).cif,1480,1181,299,0,1181,1181,1181,805,100,276,689,365,127,0.211,25.32
+8EIQ,8EIQ(1).cif,1480,1162,317,1,1162,1162,1162,790,107,265,662,386,114,0.2159,24.43

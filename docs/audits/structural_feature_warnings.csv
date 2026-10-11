@@ -1,0 +1,4 @@
+structure_id,source_filename,canonical_position,feature_name,ineligibility_reason,message
+6MSM,6MSM(1).cif,1371,CONSTRUCT_SEQUENCE,CONSTRUCT_SUBSTITUTION,Construct substitution: canonical E1371 modeled as Q (CONSTRUCT_SUBSTITUTION).
+8EIQ,8EIQ(1).cif,508,ALL,CONSTRUCT_DELETION,Residue F508 absent from construct sequence (CONSTRUCT_DELETION).
+8EIQ,8EIQ(1).cif,1371,CONSTRUCT_SEQUENCE,CONSTRUCT_SUBSTITUTION,Construct substitution: canonical E1371 modeled as Q (CONSTRUCT_SUBSTITUTION).

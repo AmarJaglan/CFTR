@@ -1,0 +1,12 @@
+structure_id,source_filename,label_asym_id,auth_asym_id,canonical_position,label_seq_id,auth_seq_id,warning_category,warning_message
+1AV5,1AV5.cif,A,A,,,,NON_CFTR_EXCLUDED,"Chain excluded from CFTR residue mapping: PROTEIN KINASE C INTERACTING PROTEIN (identity: 19.8%, matches: 25)."
+1AV5,1AV5.cif,B,B,,,,NON_CFTR_EXCLUDED,"Chain excluded from CFTR residue mapping: PROTEIN KINASE C INTERACTING PROTEIN (identity: 19.8%, matches: 25)."
+5UAK,5UAK(1).cif,A,A,,1481,,EXPRESSION_TAG,Construct expression tag / extension: residues 1481-1489 (SNSLEVLFQ)
+5UAK,5UAK(1).cif,B,R,,,,NON_CFTR_EXCLUDED,"Chain excluded from CFTR residue mapping: Cystic fibrosis transmembrane conductance regulator (identity: 0.0%, matches: 0)."
+6MSM,6MSM(1).cif,A,A,1371,1371,1371,REFERENCE_MISMATCH,Construct substitution: E1371Q (engineered catalytic mutation to trap ATP-bound state)
+6MSM,6MSM(1).cif,A,A,,1481,,EXPRESSION_TAG,Construct expression tag / extension: residues 1481-1489 (SNSLEVLFQ)
+6MSM,6MSM(1).cif,B,B,,,,NON_CFTR_EXCLUDED,"Chain excluded from CFTR residue mapping: Piece of Molecule-1 (identity: 0.0%, matches: 0)."
+7JQ4,7jq4.cif,A,A,,,,NON_CFTR_EXCLUDED,"Chain excluded from CFTR residue mapping: 3C-like proteinase (identity: 15.1%, matches: 46)."
+8EIQ,8EIQ(1).cif,A,A,508,,,CONSTRUCT_DELETION,Construct deletion: Delta-F508 (authentic CF-causing patient deletion)
+8EIQ,8EIQ(1).cif,A,A,1371,1370,1371,REFERENCE_MISMATCH,Construct substitution: E1371Q (engineered catalytic mutation to trap ATP-bound state)
+8EIQ,8EIQ(1).cif,B,B,,,,NON_CFTR_EXCLUDED,"Chain excluded from CFTR residue mapping: Cystic fibrosis transmembrane conductance regulator (identity: 0.0%, matches: 0)."
