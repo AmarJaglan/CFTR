@@ -1,10 +1,11 @@
 {
   "name": "cftr-structmap",
   "private": true,
+  "packageManager": "pnpm@9.15.0",
   "scripts": {
-    "dev": "npm --prefix frontend run dev -- --host 0.0.0.0 --port 3000",
-    "build": "npm --prefix frontend run build",
-    "test": "npm --prefix frontend run test",
-    "preview": "npm --prefix frontend run preview"
+    "dev": "pnpm --filter cftr-structmap-frontend run dev -- --host 0.0.0.0 --port 3000",
+    "build": "pnpm --filter cftr-structmap-frontend run build",
+    "test": "pnpm --filter cftr-structmap-frontend run test",
+    "preview": "pnpm --filter cftr-structmap-frontend run preview"
   }
 }
