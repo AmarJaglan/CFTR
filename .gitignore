@@ -38,3 +38,4 @@ data/processed/*
 # Build artifacts
 dist/
 build/
+.Rhistory
