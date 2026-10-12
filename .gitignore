@@ -39,3 +39,7 @@ data/processed/*
 dist/
 build/
 .Rhistory
+
+# Node and Frontend
+node_modules/
+*.tsbuildinfo
